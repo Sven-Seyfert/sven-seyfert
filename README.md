@@ -12,9 +12,9 @@
 
 #### 📫 Reach me out!
 
-[![youtube](https://img.shields.io/badge/Solve%20Smart-e74c3c?style=for-the-badge&labelColor=black&logo=youtube&logoColor=e74c3c)](https://youtube.com/channel/UCjPiWdl_h1CoYhZXaEC_AwA)
-[![homepage](https://img.shields.io/badge/Homepage-4A6676?style=for-the-badge&labelColor=black&logo=HTML5)](http://sven-seyfert.de)
-[![twitter](https://img.shields.io/badge/@Sven_Seyfert-1ca0f1?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1ca0f1)](https://twitter.com/sven_seyfert)
+[![youtube](https://img.shields.io/badge/Solve%20Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://youtube.com/channel/UCjPiWdl_h1CoYhZXaEC_AwA)
+[![homepage](https://img.shields.io/badge/Homepage-648293?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=648293)](http://sven-seyfert.de)
+[![twitter](https://img.shields.io/badge/@Sven_Seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1DA1F2)](https://twitter.com/sven_seyfert)
 
     Feel free to ask me any question. I am grateful to help.
 
