@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/Sven-Seyfert/Sven-Seyfert/blob/main/media/favicon.ico" width="80" />
+</p>
+
 ## Hi there【ツ】, I am Sven.
 
     I am a software test engineer specializing in test automation.
