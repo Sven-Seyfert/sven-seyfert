@@ -13,8 +13,8 @@ All repositories
 
 Au3NewProject
 - add CHANGELOG.md
-- change icon url src from `media/favicon.ico` to `images/icon.png` in README.md files
-- change Markdown table structure from `| :------------ |` to `| :--- |`
+- ~~change icon url src from `media/favicon.ico` to `images/icon.png` in README.md files~~
+- ~~change Markdown table structure from `| :------------ |` to `| :--- |`~~
 
 Livestream-Au3MonitorDim Private
 - add icon.png and favicon.ico (creation like the others)
