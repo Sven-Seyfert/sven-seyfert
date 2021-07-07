@@ -19,3 +19,6 @@ Au3NewProject
 Livestream-Au3MonitorDim Private
 - add icon.png and favicon.ico (creation like the others)
 - change complete repository structure to have a valid structure for "public" repos
+
+VSCode-AutoItSnippets
+- change vscode extension (update) to get the new changelog entries
