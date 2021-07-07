@@ -12,7 +12,7 @@ All repositories
 - change compile to enforce the usage of the new icons
 
 Au3NewProject
-- add CHANGELOG.md
+- ~~add CHANGELOG.md~~
 - ~~change icon url src from `media/favicon.ico` to `images/icon.png` in README.md files~~
 - ~~change Markdown table structure from `| :------------ |` to `| :--- |`~~
 
