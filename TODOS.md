@@ -4,10 +4,10 @@
 
 All repositories
 - add CHANGELOG.md
-- add images folder
-- add icon.png to images folder
-- change icon url src from `media/favicon.ico` to `images/icon.png` in README.md files
-- change Markdown table structure from `| :------------ |` to `| :--- |`
+- ~~add images folder~~
+- ~~add icon.png to images folder~~
+- ~~change icon url src from `media/favicon.ico` to `images/icon.png` in README.md files~~
+- ~~change Markdown table structure from `| :------------ |` to `| :--- |`~~
 - change README.md files to have fulfilled sections
 
 Au3NewProject
