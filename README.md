@@ -2,9 +2,9 @@
     <img src="https://github.com/Sven-Seyfert/Sven-Seyfert/blob/main/media/favicon.ico" width="80" />
 </p>
 
-## Hi there【ツ】, I am Sven.
+## Hi there, I am Sven 【ツ】.
 
-    I am a software test engineer specializing in test automation.
+    I am a software test engineer with focus in test automation.
 
 ### I am a husband, father, friend, son, IT geek and very involved.
 
@@ -17,12 +17,13 @@
 #### 📫 Reach me out!
 
 [![youtube](https://img.shields.io/badge/Solve%20Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://youtube.com/channel/UCjPiWdl_h1CoYhZXaEC_AwA)
-[![homepage](https://img.shields.io/badge/Homepage-648293?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=648293)](http://sven-seyfert.de)
+[![homepage](https://img.shields.io/badge/Homepage-648293?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=648293)](https://sven-seyfert.de)
 [![twitter](https://img.shields.io/badge/@Sven_Seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1DA1F2)](https://twitter.com/sven_seyfert)
+[![solve-smart](https://img.shields.io/badge/solve_smart_de-6569B0?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=6569B0)](https://solve-smart.de)
 
     Feel free to ask me any question. I am grateful to help.
 
-##### 👨‍💻 Some of my interests.
+##### 👨‍🏻‍💻 Some of my interests.
 
 ![autoit](https://img.shields.io/badge/AutoIt-61DBFB?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=61DBFB)
 ![csharp](https://img.shields.io/badge/CSharp-e535ab?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=e535ab)
