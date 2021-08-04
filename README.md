@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning more about the proper usage of Design Pattern and Clean Code.
 - 👯 I'm looking to collaborate on interesting projects in C#, AutoIt, Python and all kind of WebBasedStuff.
 - 💬 Ask me about AutoIt! I worked with this language since many years.
-- ⚡ Fun fact: I built my wooden house partly on my own.
+- 📢 Fun fact: I built my wooden house partly on my own.
 
 #### 📫 Reach me out
 
