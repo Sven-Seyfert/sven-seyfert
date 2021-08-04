@@ -2,7 +2,7 @@
     <img src="https://github.com/Sven-Seyfert/Sven-Seyfert/blob/main/media/favicon.ico" width="80" />
 </p>
 
-## Hi there, I am Sven 【ツ】.
+## Hi there, I am Sven【ツ】.
 
     I am a software test engineer with focus in test automation.
 
@@ -14,7 +14,7 @@
 - 💬 Ask me about AutoIt! I worked with this language since many years.
 - ⚡ Fun fact: I built my wooden house partly on my own.
 
-#### 📫 Reach me out!
+#### 📫 Reach me out
 
 [![youtube](https://img.shields.io/badge/Solve%20Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://youtube.com/channel/UCjPiWdl_h1CoYhZXaEC_AwA)
 [![homepage](https://img.shields.io/badge/Homepage-648293?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=648293)](https://sven-seyfert.de)
@@ -23,7 +23,7 @@
 
     Feel free to ask me any question. I am grateful to help.
 
-##### 🤹‍♂️ Some of my interests.
+#### 💻 Some of my interests
 
 ![autoit](https://img.shields.io/badge/AutoIt-61DBFB?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=61DBFB)
 ![csharp](https://img.shields.io/badge/CSharp-e535ab?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=e535ab)
@@ -33,3 +33,7 @@
 ![bdd](https://img.shields.io/badge/BDD-6569B0?style=for-the-badge&labelColor=black&logo=cucumber&logoColor=6569B0)
 
     Stay innovative!
+    
+#### 📚 Imprint
+
+To the german [Imprint](https://solve-smart.de/#/de/impressum) (Impressum).
