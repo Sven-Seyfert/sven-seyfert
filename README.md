@@ -23,7 +23,7 @@
 
     Feel free to ask me any question. I am grateful to help.
 
-##### 👨‍🏻‍💻 Some of my interests.
+##### 🤹‍♂️ Some of my interests.
 
 ![autoit](https://img.shields.io/badge/AutoIt-61DBFB?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=61DBFB)
 ![csharp](https://img.shields.io/badge/CSharp-e535ab?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=e535ab)
