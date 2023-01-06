@@ -8,11 +8,21 @@
 
 ### I am a husband, father, friend, son, IT geek and very involved.
 
-- 🔭 I'm currently working on testautomation projects with an BDD approach.
-- 🌱 I'm currently learning more about the proper usage of Design Pattern and Clean Code.
-- 👯 I'm looking to collaborate on interesting projects in C#, AutoIt, Python and all kind of WebBasedStuff.
+- 🔭 I am currently working on test automation projects with an BDD/TDD approach (UI and API level).
+- 🌱 I am continuously learning more about the proper usage of Design Pattern and Clean Code.
+- 👯 I am looking to collaborate on interesting projects in AutoIt, C#, Python and all kind of #WebBasedStuff (JavaScript).
 - 💬 Ask me about AutoIt! I worked with this language since many years.
 - 📢 Fun fact: I built my wooden house partly on my own.
+
+<br>
+
+#### 📈 My GitHub stats
+
+<img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"> <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&layout=compact&langs_count=8&theme=ayu-mirage&role=OWNER,COLLABORATOR">
+
+    Work in progress ..
+
+<br>
 
 #### 📫 Reach me out
 
@@ -23,6 +33,8 @@
 
     Feel free to ask me any question. I am grateful to help.
 
+<br>
+
 #### 💻 Some of my interests
 
 ![autoit](https://img.shields.io/badge/AutoIt-61DBFB?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=61DBFB)
@@ -32,8 +44,11 @@
 ![python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)
 ![bdd](https://img.shields.io/badge/BDD-6569B0?style=for-the-badge&labelColor=black&logo=cucumber&logoColor=6569B0)
 
+
     Stay innovative!
     
+<br>
+
 #### 📚 Imprint
 
 To the german [Imprint](https://solve-smart.de/#/de/impressum) (Impressum).
