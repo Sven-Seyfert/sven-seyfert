@@ -16,6 +16,19 @@
 
 <br>
 
+#### 💻 Some of my coding interests
+
+![autoit](https://img.shields.io/badge/AutoIt-61DBFB?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=61DBFB)
+![csharp](https://img.shields.io/badge/CSharp-e535ab?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=e535ab)
+![html](https://img.shields.io/badge/HTML%2FCSs-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)
+![bdd](https://img.shields.io/badge/BDD-6569B0?style=for-the-badge&labelColor=black&logo=cucumber&logoColor=6569B0)
+
+    Stay innovative!
+    
+<br>
+
 #### 📈 My GitHub stats
 
 <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"> <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&layout=compact&langs_count=10&theme=ayu-mirage&card_width=369">
@@ -33,20 +46,6 @@
 
     Feel free to ask me any question. I am grateful to help.
 
-<br>
-
-#### 💻 Some of my interests
-
-![autoit](https://img.shields.io/badge/AutoIt-61DBFB?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=61DBFB)
-![csharp](https://img.shields.io/badge/CSharp-e535ab?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=e535ab)
-![html](https://img.shields.io/badge/HTML%2FCSs-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)
-![bdd](https://img.shields.io/badge/BDD-6569B0?style=for-the-badge&labelColor=black&logo=cucumber&logoColor=6569B0)
-
-
-    Stay innovative!
-    
 <br>
 
 #### 📚 Imprint
