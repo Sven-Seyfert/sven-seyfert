@@ -9,8 +9,8 @@
 ### I am a husband, father, friend, son, IT geek and very involved.
 
 - 🔭 I am currently working on test automation projects with an BDD/TDD approach (UI and API level).
-- 🌱 I am continuously learning more about the proper usage of Design Pattern and Clean Code.
-- 👯 I am looking to collaborate on interesting projects in AutoIt, C#, Python and all kind of #WebBasedStuff (JavaScript).
+- 🌱 I am continuously learning more about Go (golang) and a proper usage of the language.
+- 👯 I am looking to collaborate and contribute on interesting projects in AutoIt, Go (golang) and all kind of #WebBasedStuff (JavaScript | node.js).
 - 💬 Ask me about AutoIt! I worked with this language since many years.
 - 📢 Fun fact: I built my wooden house partly on my own.
 
@@ -18,15 +18,15 @@
 
 #### 💻 Some of my coding interests
 
-![autoit](https://img.shields.io/badge/AutoIt-61DBFB?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=61DBFB)
-![csharp](https://img.shields.io/badge/CSharp-e535ab?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=e535ab)
+![autoit](https://img.shields.io/badge/AutoIt-lightskyblue?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=lightskyblue)
+![golang](https://img.shields.io/badge/Go-07D9CA?style=for-the-badge&labelColor=black&logo=go&logoColor=07D9CA)
 ![html](https://img.shields.io/badge/HTML%2FCSs-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A)
+![csharp](https://img.shields.io/badge/CSharp-e535ab?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=e535ab)
 ![bdd](https://img.shields.io/badge/BDD-6569B0?style=for-the-badge&labelColor=black&logo=cucumber&logoColor=6569B0)
 
     Stay innovative!
-    
+
 <br>
 
 #### 📈 My GitHub stats
