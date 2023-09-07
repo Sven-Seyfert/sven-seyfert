@@ -1,0 +1,66 @@
+{
+    "autoit.infoPath": "C:\\Program Files (x86)\\AutoIt3\\Au3Info_x64.exe",
+    "autoit.UDFCreator": "Sven Seyfert",
+    "breadcrumbs.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "editor.folding": false,
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.insertSpaces": true,
+    "editor.lineHeight": 21,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderLineHighlight": "none",
+    "editor.renderWhitespace": "none",
+    "editor.snippetSuggestions": "inline",
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro Darker]": {
+            "comments": {
+                "fontStyle": "italic",
+                "foreground": "#2ea542"
+            },
+            // "keywords": "#db7bb6",
+            // "variables": "#d86d78",
+        }
+    },
+    "editor.wordWrap": "off",
+    "files.autoSave": "onFocusChange",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "gitlens.currentLine.enabled": false,
+    "go.toolsManagement.autoUpdate": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "window.menuBarVisibility": "compact",
+    "window.title": "${dirty}${appName}${separator}${activeFolderLong}${separator}${activeEditorShort}",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "zenMode.hideLineNumbers": false,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "emmet.includeLanguages": {
+        "njk": "html"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorCustomizations": {
+        "[One Dark Pro Darker]": {
+            // "editor.background": "#25272d",
+        }
+    }
+}
