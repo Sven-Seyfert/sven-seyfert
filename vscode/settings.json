@@ -2,6 +2,9 @@
     "autoit.infoPath": "C:\\Program Files (x86)\\AutoIt3\\Au3Info_x64.exe",
     "autoit.UDFCreator": "Sven Seyfert",
     "breadcrumbs.enabled": false,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
@@ -10,6 +13,7 @@
     "editor.fontSize": 14,
     "editor.insertSpaces": true,
     "editor.lineHeight": 21,
+    "editor.linkedEditing": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.renderLineHighlight": "none",
     "editor.renderWhitespace": "none",
@@ -25,42 +29,42 @@
         }
     },
     "editor.wordWrap": "off",
+    "emmet.includeLanguages": {
+        "njk": "html"
+    },
     "files.autoSave": "onFocusChange",
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "gitlens.currentLine.enabled": false,
     "go.toolsManagement.autoUpdate": true,
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "window.menuBarVisibility": "compact",
-    "window.title": "${dirty}${appName}${separator}${activeFolderLong}${separator}${activeEditorShort}",
-    "workbench.editor.enablePreview": false,
-    "workbench.editor.highlightModifiedTabs": true,
-    "workbench.editor.untitled.hint": "hidden",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "none",
-    "zenMode.hideLineNumbers": false,
-    "[css]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    },
-    "emmet.includeLanguages": {
-        "njk": "html"
-    },
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
     },
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
-    "workbench.colorTheme": "One Dark Pro Darker",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "window.menuBarVisibility": "compact",
+    "window.title": "${dirty}${activeEditorShort}: ${rootName}${separator}${activeFolderMedium}",
+    "window.titleSeparator": " > ",
     "workbench.colorCustomizations": {
         "[One Dark Pro Darker]": {
             // "editor.background": "#25272d",
         }
-    }
+    },
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "zenMode.hideLineNumbers": false
 }
