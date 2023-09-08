@@ -1,0 +1,107 @@
+[
+    {
+        // comment
+        "key": "ctrl+numpad1",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        // comment orig
+        "key": "ctrl+oem_2",
+        "command": "-editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        // whitespace
+        "key": "ctrl+numpad2",
+        "command": "editor.action.toggleRenderWhitespace"
+    },
+    {
+        // word wrap
+        "key": "ctrl+numpad3",
+        "command": "editor.action.toggleWordWrap"
+    },
+    {
+        // word wrap orig
+        "key": "alt+z",
+        "command": "-editor.action.toggleWordWrap"
+    },
+    {
+        // formatting
+        "key": "ctrl+numpad4",
+        "command": "editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+    },
+    {
+        // formatting orig
+        "key": "shift+alt+f",
+        "command": "-editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+    },
+    {
+        // kebab case
+        "key": "ctrl+numpad5",
+        "command": "editor.action.transformToKebabcase"
+    },
+    {
+        // file path copy
+        "key": "ctrl+numpad6",
+        "command": "copyFilePath",
+        "when": "editorFocus"
+    },
+    {
+        // file path copy orig
+        "key": "shift+alt+c",
+        "command": "-copyFilePath",
+        "when": "editorFocus"
+    },
+    {
+        // sort asc
+        "key": "ctrl+numpad7",
+        "command": "editor.action.sortLinesAscending"
+    },
+    {
+        // sort desc
+        "key": "ctrl+numpad8",
+        "command": "editor.action.sortLinesDescending"
+    },
+    {
+        // toggle terminal
+        "key": "ctrl+numpad9",
+        "command": "workbench.action.terminal.toggleTerminal",
+        "when": "terminal.active"
+    },
+    {
+        // toggle terminal orig
+        "key": "ctrl+oem_3",
+        "command": "-workbench.action.terminal.toggleTerminal",
+        "when": "terminal.active"
+    },
+    {
+        // toggle terminal maximized
+        "key": "ctrl+numpad_decimal",
+        "command": "workbench.action.toggleMaximizedPanel"
+    },
+    {
+        // upper case
+        "key": "ctrl+numpad_divide",
+        "command": "editor.action.transformToUppercase"
+    },
+    {
+        // lower case
+        "key": "ctrl+numpad_multiply",
+        "command": "editor.action.transformToLowercase"
+    },
+    {
+        // fix suggestions
+        "key": "alt+enter",
+        "command": "editor.action.quickFix",
+        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        // fix suggestions orig
+        "key": "ctrl+oem_period",
+        "command": "-editor.action.quickFix",
+        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+    }
+]

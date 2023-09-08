@@ -22,7 +22,7 @@
         "[One Dark Pro Darker]": {
             "comments": {
                 "fontStyle": "italic",
-                "foreground": "#2ea542"
+                // "foreground": "#2ea542"
             },
             // "keywords": "#db7bb6",
             // "variables": "#d86d78",
