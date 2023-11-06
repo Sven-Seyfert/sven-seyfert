@@ -39,9 +39,16 @@
         "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
     },
     {
-        // kebab case
+        // toggle group focus
         "key": "ctrl+numpad5",
-        "command": "editor.action.transformToKebabcase"
+        "command": "workbench.action.toggleMaximizeEditorGroup",
+        "when": "maximizedEditorGroup || multipleEditorGroups"
+    },
+    {
+        // toggle group focus orig
+        "key": "ctrl+k ctrl+m",
+        "command": "-workbench.action.toggleMaximizeEditorGroup",
+        "when": "maximizedEditorGroup || multipleEditorGroups"
     },
     {
         // file path copy
