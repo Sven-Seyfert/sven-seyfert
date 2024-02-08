@@ -53,7 +53,7 @@
     "tabnine.experimentalAutoImports": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "window.menuBarVisibility": "compact",
-    "window.title": "${dirty}${activeEditorShort}: ${rootName}${separator}${activeFolderMedium}",
+    "window.title": "VSCode ~ ${dirty}${activeEditorShort}: ${rootName}${separator}${activeFolderMedium}",
     "window.titleSeparator": " > ",
     "workbench.colorCustomizations": {
         "[One Dark Pro Darker]": {
