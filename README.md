@@ -39,9 +39,10 @@
 
 #### 📫 Reach me out
 
+[![youtube](https://img.shields.io/badge/Sven--Au3--Go-3D80B6?style=for-the-badge&labelColor=black&logo=youtube&logoColor=3D80B6)](https://www.youtube.com/@svenau3go)
 [![youtube](https://img.shields.io/badge/Solve--Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
-[![youtube](https://img.shields.io/badge/Sven--Au3--Go-3D80B6?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@svenau3go)
-[![solve-smart](https://img.shields.io/badge/solve_smart_de-6569B0?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=6569B0)](https://solve-smart.de)
+[![discord](https://img.shields.io/badge/discord-6569B0?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=6569B0)](https://discord.gg/5DWTpZK3QN)
+[![solve-smart](https://img.shields.io/badge/solve_smart_de-F0DB4F?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=F0DB4F)](https://solve-smart.de)
 [![twitter](https://img.shields.io/badge/@Sven_Seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=x&logoColor=1DA1F2)](https://twitter.com/sven_seyfert)
 [![homepage](https://img.shields.io/badge/Homepage-648293?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=648293)](https://sven-seyfert.de)
 
