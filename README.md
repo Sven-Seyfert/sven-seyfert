@@ -43,7 +43,7 @@
 [![youtube](https://img.shields.io/badge/Solve--Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
 [![discord](https://img.shields.io/badge/discord-6569B0?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=6569B0)](https://discord.gg/5DWTpZK3QN)
 [![solve-smart](https://img.shields.io/badge/solve_smart_de-F0DB4F?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=F0DB4F)](https://solve-smart.de)
-[![twitter](https://img.shields.io/badge/@Sven_Seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=x&logoColor=1DA1F2)](https://twitter.com/sven_seyfert)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&labelColor=black&logo=x&logoColor=1DA1F2)](https://twitter.com/sven_seyfert)
 [![homepage](https://img.shields.io/badge/Homepage-648293?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=648293)](https://sven-seyfert.de)
 
     Feel free to ask me any question. I am grateful to help.
