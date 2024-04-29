@@ -134,5 +134,17 @@
         "key": "ctrl+k ctrl+n",
         "command": "-git.unstageSelectedRanges",
         "when": "isInDiffEditor && !operationInProgress"
+    },
+    {
+        // ZenMode
+        "key": "ctrl+alt+numpad5",
+        "command": "workbench.action.toggleZenMode",
+        "when": "!isAuxiliaryWindowFocusedContext"
+    },
+    {
+        // ZenMode orig
+        "key": "ctrl+k z",
+        "command": "-workbench.action.toggleZenMode",
+        "when": "!isAuxiliaryWindowFocusedContext"
     }
 ]
