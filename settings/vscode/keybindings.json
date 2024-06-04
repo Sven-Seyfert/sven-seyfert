@@ -146,5 +146,19 @@
         "key": "ctrl+k z",
         "command": "-workbench.action.toggleZenMode",
         "when": "!isAuxiliaryWindowFocusedContext"
+    },
+    {
+        "key": "ctrl+alt+e",
+        "command": "errorLens.toggle"
+    },
+    {
+        "key": "alt+z",
+        "command": "git.revertSelectedRanges",
+        "when": "isInDiffEditor && !operationInProgress"
+    },
+    {
+        "key": "ctrl+k ctrl+r",
+        "command": "-git.revertSelectedRanges",
+        "when": "isInDiffEditor && !operationInProgress"
     }
 ]
