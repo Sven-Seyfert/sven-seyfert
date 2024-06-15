@@ -62,6 +62,7 @@
     "sequence.replaceSelection": true,
     "tabnine.experimentalAutoImports": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.shellIntegration.enabled": false,
     "window.menuBarVisibility": "compact",
     "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
     "workbench.colorCustomizations": {
