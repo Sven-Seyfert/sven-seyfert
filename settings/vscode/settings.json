@@ -2,6 +2,7 @@
     "accessibility.voice.speechLanguage": "en-US",
     // "accessibility.voice.speechLanguage": "de-DE"
     "accessibility.voice.speechTimeout": 3000,
+    "autoit.consoleParams": "",
     "autoit.infoPath": "C:\\Program Files (x86)\\AutoIt3\\Au3Info_x64.exe",
     "autoit.outputCodePage": "windows1250",
     "autoit.UDFCreator": "Sven Seyfert",
@@ -16,16 +17,25 @@
     "editor.cursorStyle": "block",
     "editor.folding": false,
     "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
-    "editor.fontSize": 15,
+    "editor.fontSize": 17,
+    "editor.guides.bracketPairs": "active",
+    "editor.guides.bracketPairsHorizontal": "active",
     "editor.insertSpaces": true,
-    "editor.lineHeight": 22,
+    "editor.lineHeight": 24,
+    "editor.lineNumbers": "relative",
     "editor.linkedEditing": true,
+    "editor.minimap.autohide": true,
     "editor.minimap.showRegionSectionHeaders": false,
     "editor.minimap.showSlider": "always",
     "editor.multiCursorModifier": "ctrlCmd",
+    "editor.occurrencesHighlight": "off",
     "editor.renderLineHighlight": "none",
     "editor.renderWhitespace": "none",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
     "editor.snippetSuggestions": "inline",
+    "editor.stickyScroll.enabled": false,
+    "editor.tabSize": 4,
     "editor.tokenColorCustomizations": {
         "[One Dark Pro Darker]": {
             "comments": {
@@ -41,8 +51,10 @@
         "njk": "html"
     },
     "errorLens.enabled": false,
+    "explorer.compactFolders": false,
     "files.autoSave": "onFocusChange",
     "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "gitlens.currentLine.enabled": false,
     "go.toolsManagement.autoUpdate": true,
@@ -52,6 +64,8 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "javascript.preferences.quoteStyle": "single",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
@@ -59,9 +73,13 @@
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
+    "[markdown]": {
+        "diffEditor.ignoreTrimWhitespace": false
+    },
     "sequence.replaceSelection": true,
     "tabnine.experimentalAutoImports": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontSize": 17,
     "terminal.integrated.shellIntegration.enabled": false,
     "window.menuBarVisibility": "compact",
     "window.title": "VSCode ~ ${dirty}${activeEditorShort} ~ ${rootName} [${activeRepositoryBranchName}]",
@@ -77,5 +95,6 @@
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
+    "workbench.tree.indent": 16,
     "zenMode.showTabs": "single"
 }
