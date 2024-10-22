@@ -6,7 +6,7 @@
 
     I am a Software Development Engineer in Test (SDET).
 
-### Also I am a husband, father, friend, son, IT geek and very involved.
+### More important: I am a husband, father, friend, son, IT geek and very involved.
 
 - 🔭 I am currently working on process and test automation projects with a BDD approach (on UI and API level).
 - 🌱 I am continuously learning more about Go (golang) and a proper usage of the language.
@@ -16,7 +16,7 @@
 
 <br>
 
-#### 💻 Some of my coding interests
+### 💻 Some of my coding interests
 
 ![autoit](https://img.shields.io/badge/AutoIt-lightskyblue?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=lightskyblue)
 ![golang](https://img.shields.io/badge/Go-07D9CA?style=for-the-badge&labelColor=black&logo=go&logoColor=07D9CA)
@@ -34,7 +34,7 @@
 
 <br>
 
-#### 📈 My GitHub stats
+### 📈 My GitHub stats
 
 <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=14400&disable_animations=true"> <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&layout=compact&langs_count=10&theme=ayu-mirage&card_width=369">
 
@@ -42,7 +42,7 @@
 
 <br>
 
-#### 📫 Reach me out
+### 📫 Reach me out
 
 [![medium](https://img.shields.io/badge/medium-F7F4ED?style=for-the-badge&labelColor=black&logo=medium&logoColor=F7F4ED)](https://medium.com/@solvesmart)
 [![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&labelColor=black&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@solvesmart)
