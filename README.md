@@ -4,7 +4,7 @@
 
 ## Hi there, I am Sven aka SOLVE-SMART.
 
-    I am a Software Development Engineer in Test (SDET).
+    I am a Software Development Engineer in Test (SDET) 🧪
 
 ### More important: I am a husband, father, friend, son, IT geek and very involved.
 
@@ -30,7 +30,7 @@
 ![markdown](https://img.shields.io/badge/Markdown-F7F4ED?style=for-the-badge&labelColor=black&logo=markdown&logoColor=F7F4ED)
 
 
-    Readable Code Matters
+    Readable Code Matters 🦄
 
 <br>
 
@@ -38,7 +38,7 @@
 
 <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api?username=sven-seyfert&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=14400&disable_animations=true"> <img height="185px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sven-seyfert&layout=compact&langs_count=10&theme=ayu-mirage&card_width=369">
 
-    I did a lot more, but on GitLab
+    I did a lot more - but on GitLab 🦊
 
 <br>
 
@@ -55,7 +55,7 @@
 [![solve-smart](https://img.shields.io/badge/solve_smart_de-F0DB4F?style=for-the-badge&labelColor=black&logo=docsify&logoColor=F0DB4F)](https://solve-smart.de)
 [![x](https://img.shields.io/badge/sven__seyfert-1DA1F2?style=for-the-badge&labelColor=black&logo=x&logoColor=1DA1F2)](https://x.com/sven_seyfert)
 
-    Feel free to ask me any question. I am grateful to help.
+    Feel free to ask me any question - I am grateful to help 🤝
 
 <br>
 
