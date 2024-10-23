@@ -44,8 +44,10 @@
 
 ### 📫 Reach me out
 
-[![medium](https://img.shields.io/badge/medium-F7F4ED?style=for-the-badge&labelColor=black&logo=medium&logoColor=F7F4ED)](https://medium.com/@solvesmart)
-[![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&labelColor=black&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@solvesmart)
+[![medium.com](https://img.shields.io/badge/medium.com-F7F4ED?style=for-the-badge&labelColor=black&logo=medium&logoColor=F7F4ED)](https://medium.com/@solvesmart)
+[![hashnode.com](https://img.shields.io/badge/hashnode.com-2962FF?style=for-the-badge&labelColor=black&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@solvesmart)
+[![dev.to](https://img.shields.io/badge/dev.to-777777?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=777777)](https://dev.to/solvesmart)
+
 
 [![youtube](https://img.shields.io/badge/Solve--Smart-D94D4A?style=for-the-badge&labelColor=black&logo=youtube&logoColor=D94D4A)](https://www.youtube.com/@solvesmart)
 [![youtube](https://img.shields.io/badge/Sven--Au3--Go-3D80B6?style=for-the-badge&labelColor=black&logo=youtube&logoColor=3D80B6)](https://www.youtube.com/@svenau3go)
@@ -58,7 +60,8 @@
     Feel free to ask me any question - I am grateful to help 🤝
 
 <br>
+<br>
 
-#### 📚 Imprint
+---
 
-To the german [Imprint](https://solve-smart.de/#/de/impressum) (Impressum).
+📚 To the [legal notice](https://solve-smart.de/#/de/impressum) (imprint)
